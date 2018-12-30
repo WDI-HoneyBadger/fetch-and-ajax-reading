@@ -17,9 +17,9 @@ You can use this template for the submission:
 ```
 comfort:
 completion:
-question 1:
-question 2:
-question 3:
+question 1: regarding a file "pkgforecast3164667_new" how can i as developer intgreted with system its data like that and this datd changable every time ...so when i created system i need it data from another system like that .. file.txt or file.xml 
+question 2: APIs ..how can i created APIs whene bulding system ?
+question 3: APIs .. what about security when i can reach to daft base?
 ```
 
 
