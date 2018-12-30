@@ -15,11 +15,15 @@ There is a required submission for the homework tonight.  You must create an iss
 
 You can use this template for the submission:
 ```
-comfort:
-completion:
-question 1:
-question 2:
-question 3:
+comfort: 5/5
+completion: 5/5
+question 1: When to use synchronous and asynchronous operation ?
+question 2: How can we efficiently make a benefit of the very biiiiig object that we get from API request ?
+question 3: Is AJAX used when websites don't want to load the whole page to the user for sake of cell phones power consumption and data roaming? "The more we scroll down the more contents appear"
+
+*Comment: I really really do like this kind of reading, becuase it brings out many questions to my mind and make me excited to learn more about particular topic.
+
+- Please more cheat sheets <:
 ```
 
 
